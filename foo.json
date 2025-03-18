@@ -1,0 +1,72 @@
+{
+    "id": 1284,
+    "name": "8з0125 1920",
+    "quantity": 1920,
+    "status": "tailoring",
+    "start_date": "2025-03-01 00:00:00",
+    "end_date": null,
+    "rasxod": "0",
+    "comment": null,
+    "price": 0,
+    "order_model": {
+        "id": 449,
+        "rasxod": "32692.31",
+        "status": false,
+        "model": {
+            "id": 441,
+            "name": "8з0125",
+            "rasxod": "32692.31"
+        },
+        "sizes": [
+            {
+                "id": 1996,
+                "quantity": 0,
+                "size": {
+                    "id": 2132,
+                    "name": "68-74"
+                }
+            },
+            {
+                "id": 1997,
+                "quantity": 0,
+                "size": {
+                    "id": 2133,
+                    "name": "74-80"
+                }
+            },
+            {
+                "id": 1998,
+                "quantity": 0,
+                "size": {
+                    "id": 2134,
+                    "name": "80-86"
+                }
+            },
+            {
+                "id": 1999,
+                "quantity": 0,
+                "size": {
+                    "id": 2135,
+                    "name": "86-92"
+                }
+            }
+        ],
+        "material": null,
+        "submodels": [
+            {
+                "id": 513,
+                "submodel": {
+                    "id": 476,
+                    "name": "комбинезон"
+                },
+                "group": {
+                    "id": 96,
+                    "group": {
+                        "id": 94,
+                        "name": "5-patok"
+                    }
+                }
+            }
+        ]
+    }
+}

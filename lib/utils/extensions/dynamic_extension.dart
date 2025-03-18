@@ -1,0 +1,1 @@
+extension DynamicExtension on dynamic {}
